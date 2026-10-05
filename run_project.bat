@@ -1,0 +1,9 @@
+@echo off
+echo Creating virtual environment...
+python -m venv venv
+call venv\Scripts\activate
+echo Installing requirements...
+python -m pip install -r requirements.txt
+echo Starting dashboard...
+streamlit run app.py
+pause

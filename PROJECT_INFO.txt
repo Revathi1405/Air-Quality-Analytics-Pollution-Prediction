@@ -1,0 +1,6 @@
+Project Title: Air Quality Analytics and Pollution Prediction Using Machine Learning
+Domain: Environment / Nature
+Dataset Records: 3,000
+ML Models: Linear Regression, Random Forest Regression
+Web Framework: Streamlit
+Visualization: Plotly
