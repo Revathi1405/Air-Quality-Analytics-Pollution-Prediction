@@ -79,3 +79,8 @@ Evaluation:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+
+
+## Live Application
+
+[Open the Air Quality Analytics & Pollution Prediction Dashboard](https://air-quality-analytics-pollution-prediction-m9fxh7jeafwztapnvms.streamlit.app/)
