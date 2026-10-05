@@ -15,7 +15,7 @@ If your guide specifically requires a real-world public dataset, replace `data/a
 - Monthly and hourly pollution analysis
 - Environmental condition analysis
 - Linear Regression
-- Random Forest Regression
+- KNN Regression
 - MAE, RMSE and R² comparison
 - Interactive CO prediction interface
 
@@ -73,7 +73,7 @@ Solution: Analyze pollutant and environmental variables through a dashboard and 
 
 Models:
 1. Linear Regression
-2. Random Forest Regression
+2.   KNN Regression
 
 Evaluation:
 - Mean Absolute Error (MAE)
